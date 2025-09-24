@@ -74,7 +74,7 @@ h6 {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
-    color: #fff;
+    color: #000;
     background-color: #{{ site.data.template.color.primary }};
 }
 
@@ -84,7 +84,7 @@ h6 {
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
     border-color: #{{ site.data.template.color.primary }};
-    color: #fff;
+    color: #000;
     background-color: #{{ site.data.template.color.secondary }};
 }
 
@@ -115,7 +115,7 @@ fieldset[disabled] .btn-primary.active {
 
 .btn-primary .badge {
     color: #{{ site.data.template.color.primary }};
-    background-color: #fff;
+    background-color: #000;
 }
 
 .btn-xl {
