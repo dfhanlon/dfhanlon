@@ -269,7 +269,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/physics-equations-on-whiteboard.jpg');
+    background-image: url('{{ site.baseurl }}/img/about/physics-equations-on-whiteboard.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
