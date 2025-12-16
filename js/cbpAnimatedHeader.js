@@ -16,9 +16,6 @@ var cbpAnimatedHeader = (function() {
 		changeHeaderOn = 100;
 
 	function init() {
-		// Force navbar to start in "shrink" state
-		classie.add( header, 'navbar-shrink' );
-
 		window.addEventListener( 'scroll', function( event ) {
 			if( !didScroll ) {
 				didScroll = true;
@@ -27,11 +24,10 @@ var cbpAnimatedHeader = (function() {
 		}, false );
 	}
 
-
 	function scrollPage() {
 		var sy = scrollY();
 		if ( sy >= changeHeaderOn ) {
-			classie.add( header, 'navbar-shrink' );
+			classie.remove( header, 'navbar-shrink' );
 		}
 		else {
 			classie.remove( header, 'navbar-shrink' );
