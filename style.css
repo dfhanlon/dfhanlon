@@ -1,26 +1,3 @@
-/* Offset page content for fixed navbar */
-body {
-  padding-top: 70px;
-}
-
-/* Ensure navbar is always visible */
-.navbar {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  z-index: 1050;
-
-  background-color: #1e1e1e;
-  border-bottom: 1px solid #333;
-}
-
-/* Navbar text */
-.navbar a,
-.navbar .navbar-brand {
-  color: #ffffff !important;
-}
-
-.navbar a:hover {
-  color: #cccccc !important;
-}
+---
+layout: style
+---
