@@ -1,13 +1,3 @@
-/**
- * cbpAnimatedHeader.js v1.0.0
- * http://www.codrops.com
- *
- * Licensed under the MIT license.
- * http://www.opensource.org/licenses/mit-license.php
- * 
- * Copyright 2013, Codrops
- * http://www.codrops.com
- */
 var cbpAnimatedHeader = (function() {
 
 	var docElem = document.documentElement,
@@ -16,7 +6,12 @@ var cbpAnimatedHeader = (function() {
 		changeHeaderOn = 3;
 
 	function init() {
-		window.addEventListener( 'scroll', function( event ) {
+		// Force shrink immediately on load
+		if (header) {
+			classie.add(header, 'navbar-shrink');
+		}
+
+		window.addEventListener( 'scroll', function() {
 			if( !didScroll ) {
 				didScroll = true;
 				setTimeout( scrollPage, 250 );
@@ -25,12 +20,9 @@ var cbpAnimatedHeader = (function() {
 	}
 
 	function scrollPage() {
-		var sy = scrollY();
-		if ( sy >= changeHeaderOn ) {
-			classie.add( header, 'navbar-shrink' );
-		}
-		else {
-			classie.remove( header, 'navbar-shrink' );
+		// Always keep navbar shrunk
+		if (header) {
+			classie.add(header, 'navbar-shrink');
 		}
 		didScroll = false;
 	}
