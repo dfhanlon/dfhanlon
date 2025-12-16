@@ -1,16 +1,13 @@
----
-layout: style
----
-
 /* Offset page content for fixed navbar */
 body {
   padding-top: 70px;
 }
 
-/* Ensure navbar is always visible and above hero */
+/* Ensure navbar is always visible */
 .navbar {
   position: fixed;
   top: 0;
+  left: 0;
   width: 100%;
   z-index: 1050;
 
@@ -18,20 +15,12 @@ body {
   border-bottom: 1px solid #333;
 }
 
-/* Improve navbar text contrast */
+/* Navbar text */
 .navbar a,
 .navbar .navbar-brand {
   color: #ffffff !important;
 }
 
-/* Navbar hover effect */
 .navbar a:hover {
   color: #cccccc !important;
-}
-
-/* Prevent hero section from hiding under navbar */
-header,
-.hero,
-.intro-header {
-  margin-top: 0;
 }
