@@ -4,39 +4,22 @@ baseurl: /dfhanlon/
 # Site settings
 title: Dillon F. Hanlon Ph.D.
 email: Dillon.Hanlon@lightsource.ca
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Personal research page of Dillon F. Hanlon Ph.D., condensed matter physicist at the Canadian Light Source. Research interests include synchrotron-based X-ray spectroscopy, electronic structure, and quantum materials."
 
 
 # Team names, titles and social links
 people:
-- name: Dillon F. Hanlon 
+- name: Dillon F. Hanlon
   pic: 1
-  position: 
+  position: Researcher, Canadian Light Source
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: github
+      url: https://github.com/dfhanlon
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# Social networks (update URLs with your actual profiles)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+    url: https://github.com/dfhanlon
 
 # Build settings
 markdown: kramdown
