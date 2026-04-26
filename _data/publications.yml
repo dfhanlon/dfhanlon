@@ -1,0 +1,355 @@
+- id: 2
+  title: Nanoscale ultrafast lattice modulation with a free-electron laser
+  authors: Haoyuan Li and Nan Wang and Leon Zhang and Sanghoon Song and Yanwen Sun
+    and May-Ling Ng and Takahiro Sato and Dillon Hanlon and Sajal Dahal and Mario
+    D Balcazar and Vincent Esposito and Selene She and Chance Caleb Ornelas-Skarin
+    and Joan Vila-Comamala and Christian David and Nadia Berndt and Peter R Miedaner
+    and Zhuquan Zhang and Matthias Ihme and Mariano Trigo and Keith A Nelson and Jerome
+    B Hastings and Alexei A Maznev and Laura Foglia and Samuel Teitelbaum and David
+    A Reis and Diling Zhu
+  year: 2026
+  journal: Nature Physics
+  citation: Nature Physics, 1-6, 2026
+  abstract: Ultrafast optical laser-based techniques have enabled the probing of atomistic
+    processes at their intrinsic temporal scales with femto- and attosecond resolution.
+    However, the long wavelengths of optical lasers have prevented their interrogation
+    and manipulation with nanoscale spatial specificity. Advances in hard X-ray free-electron
+    lasers have enabled progress in developing X-ray transient-grating spectroscopy,
+    a technique that aims to coherently control elementary excitations with nanoscale
+    X-ray standing waves. Thus far, the realization of this technique at the nanoscale
+    has been a challenge. Here we demonstrate X-ray transient-grating spectroscopy
+    with spatial periods of the order of 10 nm via the subfemtosecond synchronization
+    of two hard X-ray pump pulses at a precisely controlled crossing angle. This creates
+    a thermal grating and preferentially excites coherent longitudinal acoustic phonon
+    modes with …
+  url: https://www.nature.com/articles/s41567-025-03161-8
+  num_citations: 4
+  type: journal
+- id: 3
+  title: Coupled order parameters and photoinduced domain walls in the charge density
+    wave of (TaSe4)2I
+  authors: Ryan A Duncan and Gal Orenstein and Soyeun Kim and Yijing Huang and Huaiyu
+    Wang and Samuel W Teitelbaum and Jade Stanton and Matthew Hurley and Alexander
+    Miller and Nicholas Leonard and Dillon Hanlon and David A Reis and Taito Osaka
+    and Yuya Kubota and Tadashi Togashi and Kejian Qu and Daniel P Shoemaker and Takahiro
+    Sato and Mariano Trigo
+  year: 2025
+  journal: npj Quantum Materials
+  citation: npj Quantum Materials 10 (1), 45, 2025
+  abstract: The charge density wave in (TaSe4)2I has drawn much attention recently
+    as a controversial candidate for an axion insulator where the CDW breaks the chiral
+    symmetry of the Weyl semimetal. Here we use ultrafast x-ray scattering to study
+    the collective modes of this CDW. By measuring several diffraction peaks we find
+    that the order parameter involves coupled optical and acoustic modes. For strong
+    near-infrared excitation, the dynamics of the x-ray diffraction show evidence
+    of photoinduced inversion of both components of the CDW order parameter, and associated
+    domain walls. These results demonstrate the potential of ultrafast methods to
+    induce topological defects through highly nonequilibrium dynamics. In (TaSe4)2I
+    these defects should lead to exotic electronic states due to the nontrivial topology
+    of the band structure.
+  url: https://www.nature.com/articles/s41535-025-00762-7
+  num_citations: 2
+  type: journal
+- id: 8
+  title: Impulsive excitation of squeezed phonons in single crystal germanium by an
+    x-ray laser
+  authors: Nan Wang and Haoyuan Li and Yanwen Sun and Dillon Hanlon and Yijing Huang
+    and Peihao Sun and Baochen She and Chance Ornelas-Skarin and Samuel W Teitelbaum
+    and Mark Sutton and Paul H Fuoss and JB Hastings and Takahiro Sato and Sanghoon
+    Song and Mariano Trigo and David A Reis and Mike Dunne and Diling Zhu
+  year: 2025
+  journal: Applied Physics Letters
+  citation: Applied Physics Letters 126 (22), 2025
+  abstract: In this Letter, we present the experimental observation of squeezed phonon
+    generation in semiconductor germanium (Ge) induced by x-ray excitation. Prior
+    x-ray pump, x-ray probe studies reported coherent longitudinal acoustic phonon
+    generation in insulating oxides like strontium titanate and potassium tantalate.
+    In contrast, such signals were not observed in semiconductors likely due to limited
+    signal-to-noise ratio. Now, with an improved experimental setup, we observe a
+    phonon response in single-crystal germanium. Utilizing x-ray split-delay optics
+    with enhanced stability, we extract the phonon dispersion relation, which shows
+    strong agreement with the calculated transverse acoustic phonon mode. Our results
+    reveal that responses to x-ray excitations in semiconductors are of a similar
+    nature to optical excitations. This suggests that the initial response to x-ray
+    core–hole excitations rapidly diffuses to a non-local …
+  url: https://pubs.aip.org/aip/apl/article/126/22/222201/3348586
+  num_citations: 0
+  type: journal
+- id: 9
+  title: Collective Charge Density Waves dynamics in YBCO revealed by ultrashort hard
+    X-ray
+  authors: Giacomo Coslovich and Choongwon Seo and Alexander Nicolas Dominik Petsch
+    and Lingjia Shen and Fabio Boschini and Mariano Trigo and Zach Porter and Daniel
+    Jost and Rajan Plumley and Dillon Hanlon and Huaiyu Wang and Samuel Welch Teitelbaum
+    and Joshua J Turner
+  year: 2025
+  journal: ''
+  citation: SMT 2025, 2025
+  abstract: The collective dynamics of complex phases such as stripes, charge density
+    waves and high temperature superconductivity can provide useful insight on their
+    origin and interactions. Ultrafast optical measurements have revealed coherent
+    oscillations related phonons modes, as well as collective modes of the charge
+    order in high temperature superconductors. However, optical probes can only detect
+    a limited set of modes and unambiguous assignment is often challenging. Here,
+    using ultrafast hard x-ray scattering, we present collective oscillations of the
+    amplitude of the charge density wave (CDW) peak in underdoped YBCO. The CDW amplitude
+    presents large oscillations at a central frequency of 2.2 THz. Additional modes
+    will also be discussed.
+  url: https://scholar.google.com/scholar?cluster=5698821165994325009&hl=en&oi=scholarr
+  num_citations: 0
+  type: journal
+- id: 1
+  title: Temperature dependence of the viscoelastic properties of a natural gastropod
+    mucus by Brillouin light scattering spectroscopy
+  authors: Dillon F Hanlon and Maynard J Clouter and G Todd Andrews
+  year: 2023
+  journal: Soft Matter
+  citation: Soft Matter 19 (42), 8101-8111, 2023
+  abstract: Brillouin spectroscopy was used to probe the viscoelastic properties of
+    a natural gastropod mucus at GHz frequencies over the range −11 °C ≤ T ≤ 52 °C.
+    Anomalies in the temperature dependence of mucus longitudinal acoustic mode peak
+    parameters and associated viscoelastic properties at T = −2.5 °C, together with
+    the appearance of a peak due to ice at this temperature, suggest that the mucus
+    undergoes a phase transition from a viscous liquid state to one in which liquid
+    mucus and solid ice phases coexist. Failure of this transition to proceed to completion
+    even at −11 °C is attributed to glycoprotein–water interaction. The temperature
+    dependence of the viscoelastic properties and the phase behaviour suggest that
+    water molecules bind to glycoprotein at a temperature above the onset of freezing
+    and that the reduced ability of this bound water to take on a configuration that
+    facilitates freezing is responsible for …
+  url: https://pubs.rsc.org/en/content/articlehtml/2023/sm/d3sm00762f
+  num_citations: 5
+  type: journal
+- id: 5
+  title: Influence of octahedral site chemistry on the elastic properties of biotite
+  authors: Dillon F Hanlon and G Todd Andrews and Roger A Mason
+  year: 2023
+  journal: Physics and Chemistry of Minerals
+  citation: Physics and Chemistry of Minerals 50 (1), 7, 2023
+  abstract: Brillouin light scattering spectroscopy was used along with detailed composition
+    information obtained from electron probe microanalysis to study the influence
+    of octahedral site chemistry on the elastic properties of natural biotite crystals.
+    Elastic wave velocities for a range of directions in the ac and bc crystallographic
+    planes were obtained for each crystal by application of the well-known Brillouin
+    equation with refractive indices and phonon frequencies obtained from the Becke
+    line test and spectral peak positions, respectively. In general, these velocities
+    increase with decreasing iron content, approaching those of muscovite at low iron
+    concentrations. Twelve of thirteen elastic constants for the full monoclinic symmetry
+    were obtained for each crystal by fitting analytic expressions for the velocities
+    as functions of propagation direction and elastic constants to corresponding experimental
+    data, while the remaining constant was …
+  url: https://link.springer.com/article/10.1007/s00269-022-01230-5
+  num_citations: 2
+  type: journal
+- id: 14
+  title: Brillouin light scattering spectroscopy as a versatile probe of hypersound
+    in diverse materials systems
+  authors: Dillon F Hanlon and Bradley D McNiven and Stephen J Spencer and GT Andrews
+  year: 2022
+  journal: The Journal of the Acoustical Society of America
+  citation: The Journal of the Acoustical Society of America 152 (4_Supplement), A260-A260,
+    2022
+  abstract: An overview of the inelastic laser light scattering technique of Brillouin
+    spectroscopy and its application to the study of hypersound in a diverse set of
+    materials systems will be presented. In particular, results obtained from recent
+    Brillouin scattering experiments on natural gastropod mucus, layered high temperature
+    superconductor Bi2Sr2CaCu2O8+δ, biotite micas, and satellite tobacco mosaic virus
+    crystals will be highlighted. Collectively, these results demonstrate the utility
+    of Brillouin light scattering spectroscopy as a sensitive non-destructive probe
+    of hypersound velocity and attenuation in the vicinity of structural phase transitions,
+    the influence of chemical composition and incommensurate structure on material
+    elasticity, and of phonon dynamics in challenging materials classes.
+  url: https://pubs.aip.org/asa/jasa/article-abstract/152/4/A260/2840288
+  num_citations: 0
+  type: journal
+- id: 7
+  title: 'diffpy. morph: Python tools for model independent comparisons between sets
+    of 1D functions'
+  authors: Andrew Yang and Christopher L Farrow and Pavol JuhÃĄs and Luis Kitsu Iglesias
+    and Chia-Hao Liu and Samuel D Marks and Vivian RK Wall and Joshua Safin and Sean
+    M Drewry and Caden Myers and Dillon F Hanlon and Nicholas Leonard and Cedomir
+    Petrovic and Ahhyun Jeong and Dmitri V Talapin and Linda F Nazar and Haidong Zhou
+    and Samuel W Teitelbaum and Tim B van Driel and Soham Banerjee and Emil S Bozin
+    and Michael F Toney and Katharine Page and Naomi S Ginsberg and Simon JL Billinge
+  year: 2026
+  journal: arXiv preprint arXiv:2602.06987
+  citation: arXiv preprint arXiv:2602.06987, 2026
+  abstract: diffpymorph addresses a need to gain scientific insights from 1D scientific
+    spectra in model independent ways. A powerful approach for this is to take differences
+    between pairs of spectra and look for meaningful changes that might indicate underlying
+    chemical, structural, or other modifications. The challenge is that the difference
+    curve may contain uninteresting differences such as experimental inconsistencies
+    and benign physical changes such as the effects of thermal expansion. diffpymorph
+    allows researchers to apply simple transformations, or "morphs", to one of the
+    datasets to remove the unwanted differences revealing, when they are present,
+    non-trivial differences. diffpymorph is an open-source Python package available
+    on the Python Package Index and conda-forge. Here, we describe its functionality
+    and apply it to solve a range of experimental challenges on diffraction and PDF
+    data from x-rays and neutrons, though we note that it may be applied to any 1D
+    function in principle.
+  url: https://arxiv.org/abs/2602.06987
+  num_citations: 0
+  type: preprint
+- id: 4
+  title: Influence of hydration and dehydration on the viscoelastic properties of
+    snail mucus by brillouin spectroscopy
+  authors: Dillon F Hanlon and Maynard J Clouter and G Todd Andrews
+  year: 2023
+  journal: arXiv preprint arXiv:2308.00524
+  citation: arXiv preprint arXiv:2308.00524, 2023
+  abstract: 'Brillouin spectroscopy was used to probe the viscoelastic properties
+    of diluted snail mucus at GHz frequencies over the range -11 C  52 C and of dehydrated
+    mucus as a function of time. Two peaks were observed in the spectra for diluted
+    mucus: the longitudinal acoustic mode of the liquid mucus peak varies with dilution
+    but fluctuates around the typical value of 8.0 GHz. A second peak due to ice remained
+    unchanged with varying dilution and was seen at 18.0 GHz and appeared below the
+    dilutions "freezing" point depression. Only a single peak was found in all the
+    dehydrated mucus spectra and was also attributed to the longitudinal acoustic
+    mode of liquid mucus. Anomalous changes in the protein concentration dependence
+    of the frequency shift, linewidth, and ``freezing" point depression and consequently,
+    hypersound velocity, compressibility, and apparent viscosity suggest that the
+    viscoelastic properties of this system is influenced by the presence of water.
+    Furthermore, this research uncovered three unique transitions within the molecular
+    structure. These transitions included the first stage of glycoprotein cross-linking,
+    followed by the steady depletion of free water in the system, and eventually resulted
+    in the creation of a gel-like state when all remaining free water was evaporated.'
+  url: https://arxiv.org/abs/2308.00524
+  num_citations: 2
+  type: preprint
+- id: 6
+  title: Probing the Viscoelastic Properties of Aqueous Protein Solutions using Molecular
+    Dynamics Simulations
+  authors: Dillon F Hanlon and Ivan Saika-Voivod and M Shajahan G Razul and G Todd
+    Andrews
+  year: 2023
+  journal: arXiv preprint arXiv:2309.09119
+  citation: arXiv preprint arXiv:2309.09119, 2023
+  abstract: We performed molecular dynamics simulations to investigate the viscoelastic
+    properties of aqueous protein solutions containing an antifreeze protein, a toxin
+    protein, and bovine serum albumin. These simulations covered a temperature range
+    from 280 K to 340 K. Our findings demonstrate that lower temperatures are associated
+    with higher viscosity as well as a lower bulk modulus and speed of sound for all
+    the systems studied. Furthermore, we observe an increase in the bulk modulus and
+    speed of sound as the temperature increases up to a weak maximum while the viscosity
+    decreases. Moreover, we analyzed the influence of protein concentration on the
+    viscoelastic properties of the antifreeze protein solution. We observed a consistent
+    increase in the bulk modulus, speed of sound, and viscosity as the protein concentration
+    increased. Remarkably, our molecular dynamics simulations results closely resemble
+    the trends observed in Brillouin scattering experiments on aqueous protein solutions.
+    The similarity thus validates the use of simulations in studying the viscoelastic
+    properties of protein water solutions. Ultimately, this work provides motivation
+    for the integration of computer simulations with experimental data and holds potential
+    for advancing our understanding of both simple and complex systems.
+  url: https://arxiv.org/abs/2309.09119
+  num_citations: 1
+  type: preprint
+- id: 10
+  title: 'Brillouin light scattering studies of aqueous E. coli cell lysate: Viscoelastic
+    properties of a multimacromolecular solution'
+  authors: DF Hanlon and S Heravi and V Booth and GT Andrews
+  year: 2023
+  journal: arXiv preprint arXiv:2311.05761
+  citation: arXiv preprint arXiv:2311.05761, 2023
+  abstract: Brillouin spectroscopy was used to probe the viscoelastic properties of
+    E. coli bacterial cell lysate in aqueous solution at GHz-frequencies over the
+    range -5.0 C  50.0 C. This work offers a first temperature dependent study on
+    cell lysate by Brillouin light scattering. A single peak was observed in the spectra
+    and attributed to a longitudinal acoustic mode of the solution. The speed of sound,
+    bulk modulus, apparent viscosity and hypersound attenuation were extracted from
+    the frequency shift and FWHM of the spectral peak. This study demonstrate that
+    the behavior of complex multimacromolecular solutions, as shown by \textit{E.
+    coli} lysate, can exhibit viscoelastic properties closely akin to those observed
+    in simple binary aqueous protein solutions. Furthermore, our findings show that
+    by analyzing the raw spectral signature of the Brillouin spectra, it may be possible
+    to identify protein denaturation.
+  url: https://arxiv.org/abs/2311.05761
+  num_citations: 0
+  type: preprint
+- id: 12
+  title: Temperature Dependence of Acoustic Properties of Natural Snail Mucus by Brillouin
+    Spectroscopy
+  authors: Dillon Hanlon
+  year: 2023
+  journal: APS March Meeting Abstracts
+  citation: APS March Meeting Abstracts 2023, F09. 001, 2023
+  abstract: 'Brillouin light scattering spectroscopy was used to probe the acoustic
+    properties of a natural gastropod mucus, which consists primarily of water and
+    glycoproteins, over the range-11 o C>= T>= 52 o C. Two peaks were observed in
+    the spectra: one at a frequency shift of~ 8.0 GHz present throughout the full
+    temperature range and assigned to the longitudinal acoustic mode of the liquid
+    component of mucus, and another at a shift of~ 18.5 GHz observed for temperatures>=-2.5
+    o C assigned to the longitudinal acoustic mode of polycrystalline ice Ih. Discontinuous
+    changes in the temperature dependence of the frequency shift, linewidth, and intensity
+    of these peaks and, consequently, in the hypersound velocity and sound absorption
+    occur at T=-2.5 o C. These changes are accompanied by the appearance in the Brillouin
+    spectrum of a spectral peak due to ice for T>=-2.5 o C and together suggest that
+    the mucus …'
+  url: https://ui.adsabs.harvard.edu/abs/2023APS..MARF09001H/abstract
+  num_citations: 0
+  type: conference
+- id: 13
+  title: Temperature Dependence of the Acoustic Properties of a Natural Slug Mucus
+    by Brillouin Light Scattering Spectroscopy
+  authors: Dillon Hanlon
+  year: 2023
+  journal: APS March Meeting Abstracts
+  citation: APS March Meeting Abstracts 2023, CCC01. 002, 2023
+  abstract: 'Brillouin light scattering spectroscopy was used to probe the acoustic
+    properties of a natural gastropod mucus, which consists primarily of water and
+    glycoproteins, over the range-11 o C>= T>= 52 o C. Two peaks were observed in
+    the spectra: one at a frequency shift of~ 8.0 GHz present throughout the full
+    temperature range and assigned to the longitudinal acoustic mode of the liquid
+    component of mucus, and another at a shift of~ 18.5 GHz observed for temperatures>=-2.5
+    o C assigned to the longitudinal acoustic mode of polycrystalline ice Ih. Discontinuous
+    changes in the temperature dependence of the frequency shift, linewidth, and intensity
+    of these peaks and, consequently, in the hypersound velocity and sound absorption
+    occur at T=-2.5 o C. These changes are accompanied by the appearance in the Brillouin
+    spectrum of a spectral peak due to ice for T>=-2.5 o C and together suggest that
+    the mucus …'
+  url: https://ui.adsabs.harvard.edu/abs/2023APS..MARCC1002H/abstract
+  num_citations: 0
+  type: conference
+- id: 11
+  title: Investigating the viscoelastic properties of aqueous protein systems by Brillouin
+    spectroscopy and molecular dynamics
+  authors: Dillon Hanlon
+  year: 2023
+  journal: ''
+  citation: Memorial University of Newfoundland, 2023
+  abstract: In this study, we explore how proteins and water molecules interact which
+    could be of importance in fully understanding biological processes. By using Brillouin
+    light scattering and molecular dynamics together, we aim to learn more about these
+    interactions. Specifically, Brillouin spectroscopy was employed to investigate
+    the temperature dependence of the viscoelastic properties of gastropod mucus,
+    in both its natural and hydrated and dehydrated states, and in a bacterial cell
+    lysate solution. Additionally, time-dependent Brillouin scattering studies were
+    conducted on dehydrated mucus. The concentration of proteins in both the hydrated
+    and dehydrated states of gastropod mucus was determined using attenuated total
+    reflectance (ATR) Fourier transform infrared (FTIR) spectroscopy. Molecular dynamics
+    (MD) simulations were also performed on protein-water systems to explore bulk
+    viscoelastic properties similar to …
+  url: https://memorial.scholaris.ca/items/795aa3a8-86bd-44d1-b8f2-722100ddc695
+  num_citations: 0
+  type: thesis
+- id: 15
+  title: Temperature dependence of acoustic properties of natural snail mucus by Brillouin
+    spectroscopy
+  authors: Dillon Hanlon
+  year: 2020
+  journal: ''
+  citation: Memorial University of Newfoundland, 2020
+  abstract: Brillouin light scattering was used to understand how the acoustic and
+    mechanical properties of gastropod mucus are influenced by temperature over the
+    temperature range-11ᴼC≤ T≤ 52ᴼC. Two peaks were observed in spectra obtained in
+    this study, one which was present throughout the full temperature range and at
+    a frequency shirt of~ 8.0 GHz, while the other peak appeared at a shift of~ 18.5
+    GHZ but only for temperatures below~-3.0 ᴼC. Results for the 8.0 GHz liquid mucus
+    peak showed minor changes in both frequency shift and FWHM for temperatures greater
+    than-2.5 ᴼC. As well, the intensity of this peak showed an overall increase as
+    temperature increases. For temperatures below-2.5 ᴼC, the sound velocity for the
+    mucus mode sh owed an overall increase as temperature decreased, with a difference
+    of~ 11% between the sound velocity at T=-3.0 ᴼC (1550 m/s) and-11.0 ᴼC (1750 m/s).
+    Moreover, the …
+  url: https://memorial.scholaris.ca/items/455d78d2-fe7d-49a1-aaf9-57bbfae73883
+  num_citations: 0
+  type: thesis
